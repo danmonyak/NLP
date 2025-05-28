@@ -46,10 +46,6 @@ This project implements a two-stage NLP pipeline that learns word embeddings usi
 - `load_embedding_model`: Whether to load or train the CBOW model
 - `load_PN_model`: Whether to load or train the next-word prediction model
 
-## Example Output
-
-"She said it was all right. You know that. I don't care. I never saw anything like that before."
-
 ## License
 
 This project is open-source and available under the MIT License.
